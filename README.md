@@ -1,2 +1,3 @@
 # vk-institute
-This is the web development project from bharat intern.
+This is the my web development project from bharat intern.
+By- Satyam Sagar
